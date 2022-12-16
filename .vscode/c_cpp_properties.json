@@ -16,7 +16,7 @@
             "intelliSenseMode": "windows-gcc-x64",
             "mergeConfigurations": false,
             "browse": {
-                "path": [
+                "path":[
                     "${workspaceFolder}"
                 ],
                 "limitSymbolsToIncludedHeaders": true

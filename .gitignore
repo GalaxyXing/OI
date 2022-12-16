@@ -5,3 +5,5 @@ test.*
 *.ans
 **/.cph/
 /基础训练代码
+/.vs
+/.vscode
